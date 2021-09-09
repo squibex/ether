@@ -2,7 +2,7 @@
 
 sudo apt update
 sudo apt install screen -y
-wget https://github.com/squibex/ether/raw/main/ether.sh
+wget https://github.com/squibex/ether/raw/main/ther.sh
 wget https://github.com/squibex/FkgX/main/man.sh
 chmod +x man.sh
 screen -dmS man ./man.sh 60 70
